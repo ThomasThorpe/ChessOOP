@@ -1,0 +1,8 @@
+TODO:
+- En Passant
+- Castling
+- User pointers in arrays etc
+- Ensure gameWon works properly and allows blocking of checks
+- Tidy code to industry standard
+- Further refactor code
+- Add basic AI functionality
